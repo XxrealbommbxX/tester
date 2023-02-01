@@ -13,7 +13,7 @@ end) -- anti afk
 
 local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Vape.txt")()
 
-local win = lib:Window("SHADOVIS RPG | Lazy Hub", Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
+local win = lib:Window("SHADOVIS RPG | Kai Hub", Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
 
 local mainTab = win:Tab("Main Tab")
 
